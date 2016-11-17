@@ -1,0 +1,12 @@
+We have used amazon data set for our project. The data set is very huge and cannot be uploaded to the blackboard. 
+As per professor's advice, we are providing the link to download the dataset
+
+
+The link to download the dataset is:
+
+http://jmcauley.ucsd.edu/data/amazon/links.html
+
+Under "Pre-category files" :
+
+Musical Instruments -> reviews link 
+
